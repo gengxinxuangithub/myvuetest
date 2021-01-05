@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "area-data": "^5.0.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "element-ui": "^2.4.9",
     "moment": "^2.22.2",
